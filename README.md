@@ -14,4 +14,7 @@
 
 		Verify with command nslookup
 		nslookup your.domain.name 127.0.0.1
+		
+		
+		Source: https://github.com/jethrocarr/namedmanager
 	
