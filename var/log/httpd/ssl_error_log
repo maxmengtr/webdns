@@ -1,0 +1,2 @@
+[Fri May 14 00:54:24.755605 2021] [ssl:warn] [pid 280] AH01909: RSA certificate configured for ns.intra.tr:443 does NOT include an ID which matches the server name
+[Fri May 14 00:54:24.784698 2021] [ssl:warn] [pid 280] AH01909: RSA certificate configured for ns.intra.tr:443 does NOT include an ID which matches the server name

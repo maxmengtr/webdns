@@ -1,0 +1,15 @@
+managed-keys-zone/localhost_resolver: loaded serial 0
+managed-keys-zone/internal: loaded serial 0
+managed-keys-zone/external: loaded serial 0
+zone 0.in-addr.arpa/IN/localhost_resolver: loaded serial 0
+zone 0.in-addr.arpa/IN/internal: loaded serial 0
+zone 1.0.0.127.in-addr.arpa/IN/internal: loaded serial 0
+zone 1.0.0.127.in-addr.arpa/IN/localhost_resolver: loaded serial 0
+zone 1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.ip6.arpa/IN/localhost_resolver: loaded serial 0
+zone 1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.ip6.arpa/IN/internal: loaded serial 0
+zone localhost/IN/localhost_resolver: loaded serial 0
+zone localhost.localdomain/IN/localhost_resolver: loaded serial 0
+zone localhost.localdomain/IN/internal: loaded serial 0
+zone localhost/IN/internal: loaded serial 0
+all zones loaded
+running
