@@ -1,0 +1,10 @@
+root:root:etc:-R
+root:root:var:-R
+root:apache:etc/namedmanager/config.php
+mysql:mysql:var/lib/mysql:-R
+mysql:mysql:var/log/mariadb:-R
+root:utmp:var/log/btmp
+root:utmp:var/log/wtmp
+apache:apache:var/log/httpd:-R
+apache:apache:var/log/namedmanager:-R
+named:named:var/named:-R

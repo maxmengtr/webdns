@@ -1,3 +1,3 @@
-May 14 00:54:24 cb5f75864adb crond[104]: (CRON) INFO (Syslog will be used instead of sendmail.)
-May 14 00:54:24 cb5f75864adb crond[104]: (CRON) INFO (RANDOM_DELAY will be scaled with factor 17% if used.)
-May 14 00:54:24 cb5f75864adb crond[104]: (CRON) INFO (running with inotify support)
+May 16 13:46:21 c2ec10808e77 crond[92]: (CRON) INFO (Syslog will be used instead of sendmail.)
+May 16 13:46:21 c2ec10808e77 crond[92]: (CRON) INFO (RANDOM_DELAY will be scaled with factor 1% if used.)
+May 16 13:46:21 c2ec10808e77 crond[92]: (CRON) INFO (running with inotify support)
